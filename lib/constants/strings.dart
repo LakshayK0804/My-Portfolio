@@ -28,7 +28,7 @@ class Strings {
   static const String skills = 'Sk_\nills';
   static const String experience = 'Experience';
   static const String skills_i_have = 'What Skills I Have';
-  static const String rights_reserved = '';
+  static const String rights_reserved = 'Having organized multiple hackathons, been a part of multiple projects such as CtrlAltComplete. I know my way around computers. ';
 
   static final skillsList = [
     'JavaScript',
@@ -51,7 +51,7 @@ class Strings {
       'IIT Hackthon',
       'Apr 2019',
       '',
-      'Virtual reality app creator',
+      'Virtual Reality',
     ),
     Education(
       'Xino 2020 Participant',

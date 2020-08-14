@@ -331,7 +331,7 @@ class _SkillsWidgetState extends State<SkillsWidget> {
 
   Widget _buildEducationSummary() {
     return Text(
-      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+      'I currently study at DPS International Saket, New Delhi, India. I am in 11th grade, you can find my school website here: dpsi.ac.in in the senior branch',
       style: TextStyles.body.copyWith(color: Colors.white),
     );
   }
